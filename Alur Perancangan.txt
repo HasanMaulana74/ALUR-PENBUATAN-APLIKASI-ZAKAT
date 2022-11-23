@@ -1,5 +1,8 @@
 ALUR PERANCANGAN APLIKASI ZAKAT
-  1.Analisis Perancangan Sistem
-  2.Pembuatan Flowchat
-  3.Pembuatan Disain Aplikasi
-  4.Pembuatan Apalikasi
+      1. Analisa kebutuhan (requirement analysis) oleh business analyst/project manager
+      2. Grand design oleh business analyst dan desain secara mendetail oleh system and technical analyst
+      3. Coding oleh app developer/programmer/engineer
+      4. Tes aplikasi dan pengecekan kualitas oleh pengguna
+      5. Proses instalasi (deploy)
+      6. Memastikan aplikasi siap dipakai, serta dicek oleh business analyst/developer
+      7. Proses pemberian BAST (Berita Acara Serah Terima) & training untuk transfer pengetahuan dari developer ke pengguna
