@@ -1,0 +1,5 @@
+ALUR PERANCANGAN APLIKASI ZAKAT
+  1.Analisis Perancangan Sistem
+  2.Pembuatan Flowchat
+  3.Pembuatan Disain Aplikasi
+  4.Pembuatan Apalikasi
